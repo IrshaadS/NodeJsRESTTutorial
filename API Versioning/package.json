@@ -1,0 +1,14 @@
+{
+  "name": "api_versioning",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "version": "1.0.0",
+  "main": "api1.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

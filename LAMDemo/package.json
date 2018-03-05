@@ -1,0 +1,21 @@
+{
+	"name": "learn-about-me",
+	"private": true,
+	"scripts": {
+		"start": "node app"
+	},
+	"dependencies": {
+		"bcrypt-nodejs": "0.0.3",
+		"body-parser": "^1.18.2",
+		"connect-flash": "^0.1.1",
+		"connect-mongodb-session": "^1.4.0",
+		"cookie-parser": "^1.4.3",
+		"ejs": "^1.0.0",
+		"express": "^4.16.2",
+		"express-session": "^1.15.6",
+		"mongodb": "^1.4.12",
+		"mongoose": "^4.4.20",
+		"passport": "^0.2.2",
+		"passport-local": "^1.0.0"
+	}
+}

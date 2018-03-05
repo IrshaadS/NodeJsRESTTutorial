@@ -1,0 +1,12 @@
+{
+  "name": "random-number-api",
+  "version": "1.0.0",
+  "description": "Random Number JSON API",
+  "author": "Irshad",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
